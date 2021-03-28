@@ -20,13 +20,6 @@
 
 ### :wrench: Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Vue-32CD32?style=flat-square&logo=Vue.js&logoColor=white" margin="3px">
-<img src="https://img.shields.io/badge/Spring-green?style=flat-
-          square&logo=Spring&logoColor=white" >
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
-
 - #### Tools
 
 | Tool         | 기술                                                |
@@ -56,9 +49,9 @@
 
 ### :pencil2: 기획안 
 
-- 와이어프레임 포함
+>  와이어프레임 포함
 
-[a link](https://github.com/juyi212/Let-s-meet/blob/master/documentation/Lets_Meet_%EA%B8%B0%ED%9A%8D%EC%95%88.pdf)
+- [기획안 ](https://github.com/juyi212/Let-s-meet/blob/master/documentation/Lets_Meet_%EA%B8%B0%ED%9A%8D%EC%95%88.pdf)
 
 
 
