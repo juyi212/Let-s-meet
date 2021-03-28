@@ -8,7 +8,7 @@
 ### :date: 프로젝트 개요
 
 - 진행기간 : 2021.01.11 ~ 2021.02.19
-- 기획안
+- [기획안 ](https://github.com/juyi212/Let-s-meet/blob/master/documentation/Lets_Meet_%EA%B8%B0%ED%9A%8D%EC%95%88.pdf)
 
 
 
@@ -44,14 +44,6 @@
 | Java       | Backend 구현 언어, 크롤링 |
 | JavaScript | Frontend 구현 언어        |
 | HTML / CSS | Frontend 구현 언어​​        |
-
-
-
-### :pencil2: 기획안 
-
->  와이어프레임 포함
-
-- [기획안 ](https://github.com/juyi212/Let-s-meet/blob/master/documentation/Lets_Meet_%EA%B8%B0%ED%9A%8D%EC%95%88.pdf)
 
 
 
